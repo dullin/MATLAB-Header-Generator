@@ -1,0 +1,73 @@
+[
+    {
+        "filename": "/home/dullin/dev/pythonparser/matlabparsertest/morefcn.m",
+        "functions": [
+            {
+                "comment": null,
+                "input": [
+                    "inputArg1",
+                    "inputArg2"
+                ],
+                "name": "morefcn",
+                "output": null,
+                "start_indent": 0,
+                "start_line": 1
+            }
+        ]
+    },
+    {
+        "filename": "/home/dullin/dev/pythonparser/matlabparsertest/fcn1.m",
+        "functions": [
+            {
+                "comment": [
+                    "%FCN1 Summary of this function goes here\n",
+                    "%   Detailed explanation goes here\n"
+                ],
+                "input": [
+                    "inputArg1"
+                ],
+                "name": "fcn1",
+                "output": [
+                    "outputArg1"
+                ],
+                "start_indent": 4,
+                "start_line": 1
+            },
+            {
+                "comment": null,
+                "input": null,
+                "name": "local1",
+                "output": null,
+                "start_indent": 0,
+                "start_line": 9
+            }
+        ]
+    },
+    {
+        "filename": "/home/dullin/dev/pythonparser/matlabparsertest/inside/fcn2.m",
+        "functions": [
+            {
+                "comment": null,
+                "input": [
+                    "inputArg1",
+                    "inputArg2"
+                ],
+                "name": "fcn3",
+                "output": [
+                    "outputArg1",
+                    "outputArg2"
+                ],
+                "start_indent": 0,
+                "start_line": 1
+            },
+            {
+                "comment": null,
+                "input": null,
+                "name": "local1",
+                "output": null,
+                "start_indent": 0,
+                "start_line": 8
+            }
+        ]
+    }
+]

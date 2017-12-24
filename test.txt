@@ -1,0 +1,19 @@
+%FCN2 - ONELINEDESCRIPTION
+%MOREDESCRIPTION
+%
+% Syntax: [outputArg1, outputArg2] = fcn2(inputArg1, inputArg2)
+%
+% Inputs:
+%    inputArg1 [TYPE] - DESCRIPTION
+%    inputArg2 [TYPE] - DESCRIPTION
+% 
+% Outputs:
+%    outputArg1 [TYPE] - DESCRIPTION
+%    outputArg2 [TYPE] - DESCRIPTION
+% 
+% Example:
+%    EXAMPLE
+%
+% Other m-files: OTHER
+%
+% See also: OTHER_FUNCTION
